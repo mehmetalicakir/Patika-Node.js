@@ -1,0 +1,2 @@
+Bu bir metin mesajıdır. writeFile ile oluşturulmuştur.
+Bu ikinci metin mesajıdır. appendFile ile oluşturulmuştur.
