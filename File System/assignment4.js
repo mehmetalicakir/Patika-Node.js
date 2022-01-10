@@ -1,4 +1,4 @@
-import { writeFile, readFile, appendFile, unlink, mkdir, rm} from 'fs';
+import { writeFile, readFile, unlink} from 'fs';
 
 /*
 employees.json dosyası oluşturalım ve içerisine 
